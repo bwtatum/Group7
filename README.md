@@ -35,11 +35,11 @@ Some potential features we are considering include:
 
 ## 📂 **Project Structure**  
 📦 Group7/ ├── 📄 README.md # 📌 You are here! <br>
-            ├── 📁 assets/ # 🎨 UI Mockups, Images, Diagrams 
-            ├── 📁 docs/ # 📜 Project Documentation (SRS, Reports, etc.) 
-            ├── 📁 src/ # 🖥️ Source Code (Backend & Frontend) 
-                ├── 📁 ui/ # 🎨 Frontend Design & Components
-                ├── 📁 database/ # 🗄️ Database Schema & Queries
+            ├── 📁 assets/ # 🎨 UI Mockups, Images, Diagrams <br>
+            ├── 📁 docs/ # 📜 Project Documentation (SRS, Reports, etc.) <br>
+            ├── 📁 src/ # 🖥️ Source Code (Backend & Frontend) <br>
+            |    ├── 📁 ui/ # 🎨 Frontend Design & Components <br>
+            |   ├── 📁 database/ # 🗄️ Database Schema & Queries <br>
 
 
 ## 🛠 **Tools & Technologies**  
