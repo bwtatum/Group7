@@ -34,7 +34,7 @@ Some potential features we are considering include:
 ---
 
 ## 📂 **Project Structure**  
-📦 Group7/ ├── 📄 README.md # 📌 You are here! </n>
+📦 Group7/ ├── 📄 README.md # 📌 You are here! <br>
             ├── 📁 assets/ # 🎨 UI Mockups, Images, Diagrams 
             ├── 📁 docs/ # 📜 Project Documentation (SRS, Reports, etc.) 
             ├── 📁 src/ # 🖥️ Source Code (Backend & Frontend) 
