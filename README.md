@@ -40,8 +40,8 @@ Some potential features we are considering include:
 ├── 📁 **assets/** 🎨 *UI Mockups, Images, Diagrams* <br>  
 ├── 📁 **docs/** 📜 *Project Documentation (SRS, Reports, etc.)* <br>  
 ├── 📁 **src/** 💻 *Source Code (Backend & Frontend)* <br>  
-│   ├── 📁 **ui/** 🎭 *Frontend Design & Components* <br>  
-│   ├── 📁 **database/** 🗄 *Database Schema & Queries*  
+|>>>>├── 📁 **ui/** 🎭 *Frontend Design & Components* <br>  
+│>>>>├── 📁 **database/** 🗄 *Database Schema & Queries*  
 
 ## 🛠 **Tools & Technologies**  
 We are using the following tools for efficient **project management and development**:  
