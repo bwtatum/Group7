@@ -6,7 +6,7 @@ This is our **capstone project**, where we apply software development methodolog
 ---
 
 ## 📌 **Project Overview**  
-⚡ **Project Name:** OmniStock
+⚡ **Project Name:** OmniStock  
 ⚡ **Team Number:** 7  
 ⚡ **Project Manager:** Brandon Tatum  
 ⚡ **Team Members:** Esteban Spadea, Bethany Hill, Serina Rodriguez, Dillon Hollis  
