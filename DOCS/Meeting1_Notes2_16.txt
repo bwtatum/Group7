@@ -1,0 +1,32 @@
+Date: 02-16-25
+
+Attendees:
+Brandon T. 
+Bethany H. 
+Serina R. 
+Dillon S. -- declined, had prior engagement
+Esteban -- M.I.A
+
+Topic: 
+Kickoff Meeting
+
+Notes:
+
+Brandon available 1-4pm (Thurs-Sat) or any other day
+Bethany available anyday except for: wednesday (2-3)
+Serina available anyday except mon-wed from 10a to 1pm
+
+Set a Main Meeting Day: Tuesdays at 2pm
+
+Selected a Collaboration Tool: Jira
+	Cost: $8
+	Student discount is available for 50% off!
+
+Selected a Documentation Version Control System: Github
+	
+TO DO: 
+[ ] Select a project name
+[ ] Select a project 
+	[ ] Each member should have 1-2 ideas for next meeting
+	    Reference: "Project Examples" document on Blackboard
+[ ] Attend next meeting: 2-18-25 at 2pm

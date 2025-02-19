@@ -1,0 +1,40 @@
+Date: 02-18-25
+
+Attendees:
+Brandon T. 
+Serina R. 
+
+Absent:
+Bethany H. 
+Dillon H. 
+Esteban S.
+
+Topic: Work on Project Overview. 
+
+Notes:
+
+Esteban available any day after 6:30 pm. 
+
+Meeting day updated with proposal for Tuesdays at 7pm instead of Tuesdays at 2pm.
+
+Project Selected :  Inventory Tracker with Low Inventory Alert*, designed for Business Use
+							(Consumer availability to come later)
+							* automated
+	- Offers 3 main components: Input-Output | Processing | Database Management | 
+	- Meets project requirements
+	- Simple interface but incorporates all aspects of program design
+	  and allows team members to practice software development. 
+	- Everyone is familiar with stores, groceries, counting items, etc. 
+Project Name Selected:  OmniStock
+
+Determined two active days for group: Tuesdays at 7pm for meetings, Fridays all day for check-in/updates
+	- Allows cushion for project activity submissions due on Sundays
+	- Allows everyone a chance to connect with the team
+
+	
+TO DO: 
+[ ] Friday(everyone) - Virtual Check-In REQUIRED by all my members
+[ ] Submit Draft of Project Overview to mentor via email -- PM Task
+[ ] GitHub Repository Confirmation -- all members will be added by PM
+[ ] Complete Week 2 Project Status Report and upload to Blackboard -- PM Task
+[ ] Attend next meeting: 2-25-25 at 7pm (pending)
