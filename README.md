@@ -15,7 +15,7 @@ This is our **capstone project**, where we apply software development methodolog
 We are working in **Agile Sprints**, following the **Scrum methodology**, and tracking progress in **Jira**.  
 
 👀 **Current Status:**  
-✅ Project Selection: *In Progress*  
+✅ Project Selection: Inventory Tracker
 ✅ Tools Set Up: **GitHub, Jira, Teams for Collaboration**  
 
 ---
